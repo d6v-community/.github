@@ -1,3 +1,7 @@
 # d6v open source community
 
-D6V is a free open source community that values innovation, community-driven initiatives, and freedom. Founded on the principles of creativity and originality, D6V encourages contributors to develop new and better solutions for the community. With a focus on the needs and interests of its community, D6V places its users and contributors at the center of all its activities, seeking to build a strong and supportive community that can sustain itself over time. D6V believes in the principles of free and open source software, and is committed to promoting and protecting the rights of its users and contributors to access, use, and modify its products and services. Through its commitment to innovation, community, and freedom, D6V is dedicated to creating a better future for all.
+D6V is a free open source community that believes in innovation, community-driven initiatives, and freedom. They encourage contributors to develop new and better solutions for the community while keeping the needs and interests of its members at the center of all their activities.
+
+At D6V, they believe in the principles of free and open source software, and they are committed to promoting and protecting the rights of their users and contributors to access, use, and modify their products and services.
+
+Their focus on innovation, community, and freedom allows them to create a strong and supportive community that can sustain itself over time. Through their dedication to these values, D6V is working towards creating a better future for everyone.
